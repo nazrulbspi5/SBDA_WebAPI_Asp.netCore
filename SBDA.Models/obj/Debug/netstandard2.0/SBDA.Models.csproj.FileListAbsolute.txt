@@ -1,0 +1,9 @@
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\bin\Debug\netstandard2.0\SBDA.Models.deps.json
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\bin\Debug\netstandard2.0\SBDA.Models.dll
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\bin\Debug\netstandard2.0\SBDA.Models.pdb
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\obj\Debug\netstandard2.0\SBDA.Models.csprojAssemblyReference.cache
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\obj\Debug\netstandard2.0\SBDA.Models.AssemblyInfoInputs.cache
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\obj\Debug\netstandard2.0\SBDA.Models.AssemblyInfo.cs
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\obj\Debug\netstandard2.0\SBDA.Models.csproj.CoreCompileInputs.cache
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\obj\Debug\netstandard2.0\SBDA.Models.dll
+F:\Web Project\WebAPi\SBDAManagemnet\SBDA.Models\obj\Debug\netstandard2.0\SBDA.Models.pdb
